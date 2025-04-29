@@ -31,8 +31,6 @@ The **Amanah Links** page provides quick access to:
 
 ---
 
----
-
 ## 🛠️ Installation
 
 If you want to run the project locally:
