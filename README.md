@@ -1,9 +1,54 @@
+# 📌 Amanah Links
 
+Welcome to **Amanah Links** — a clean and simple Linktree-style page designed to connect users with the core resources of the **Amanah** project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **"Amanah is a digital platform that connects people to report and recover lost or found items in the safest and most reliable way."**
 
-Currently, two official plugins are available:
+---
 
+## 🚀 About Amanah
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-A Linktree page for the Amanah project (Lost and Found platform).
+**Amanah** is a public online platform aimed at helping people across Algeria to report lost items or announce found ones. It builds a trusted environment that fosters community collaboration.
+
+The **Amanah Links** page provides quick access to:
+- Website Link 
+- GitHub repository 📂
+- Feedback form 📝
+- Developer team page 👨‍💻
+- Contact email 📧
+
+## 📚 Technologies Used
+- React.js ⚛️
+- TailwindCSS 🎨
+- Vercel (for deployment) 🚀
+- Lucide React (for icons) 🎯
+
+---
+
+## 🌐 Live Demo
+
+[👉 Visit Amanah Links (Demo)](https://your-live-link-here.vercel.app)  
+
+---
+
+---
+
+## 🛠️ Installation
+
+If you want to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/jazia-abdelkrim/Amanah-Links.git
+
+# Navigate into the folder
+cd Amanah-Links
+
+# Install dependencies
+npm install
+
+# Start the local server
+npm run dev
+```
+
+Made with ❤️ by the Amanah Project Team.
