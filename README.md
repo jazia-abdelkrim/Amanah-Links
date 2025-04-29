@@ -27,7 +27,7 @@ The **Amanah Links** page provides quick access to:
 
 ## 🌐 Live Demo
 
-[👉 Visit Amanah Links (Demo)]([https://your-live-link-here.vercel.app](https://amanah-links.vercel.app/))  
+[👉 Visit Amanah Links (Demo)]((https://amanah-links.vercel.app/))]
 
 ---
 
