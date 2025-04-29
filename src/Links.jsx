@@ -11,13 +11,13 @@ export default function AmanahLinktree() {
                 <img
                     src="/assets/pph-amanah.png"
                     alt="Amanah Logo"
-                    className="w-56 h-56 rounded-full shadow-md border "
+                    className="w-48 h-48 rounded-full shadow-md border "
                 />
-                <h1 className="text-2xl text-center font-extrabold max-w-md">
+                <h1 className="text-xl text-center font-extrabold max-w-md">
                     Amanah Platform | منصة أمانة
                 </h1>
                 {/* Introduction Text */}
-                <h1 className="text-xl text-center font-normal max-w-lg">
+                <h1 className="text-lg text-center font-normal max-w-lg">
                     Amanah is a digital platform that connects people to report and recover lost or found items in the safest and most reliable way.
                 </h1>
             </div>
@@ -30,7 +30,7 @@ export default function AmanahLinktree() {
                 <a
                     href="https://amanah.dz"
                     target="_blank"
-                    className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-2xl rounded-lg hover:bg-[#41E2B8] shadow transition"
+                    className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-xl rounded-lg hover:bg-[#41E2B8] shadow transition"
                 >
                     Visit Our Website
                     <Link size={24} />
@@ -40,7 +40,7 @@ export default function AmanahLinktree() {
                 <a
                     href="https://github.com/Z034/PRJP.git"
                     target="_blank"
-                    className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-2xl rounded-lg hover:bg-[#41E2B8] shadow transition"
+                    className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-xl rounded-lg hover:bg-[#41E2B8] shadow transition"
                 >
                     GitHub Repository
                     <Github size={24} />
@@ -50,7 +50,7 @@ export default function AmanahLinktree() {
                 <a
                     href="https://forms.gle/6DiVqrNksPdtVxPv6"
                     target="_blank"
-                    className="flex items-center justify-center gap-3 w-full py-3 px-6 bg-[#4C87FF] text-white text-2xl rounded-lg hover:bg-[#41E2B8] shadow transition"
+                    className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-xl rounded-lg hover:bg-[#41E2B8] shadow transition"
                 >
                     Give a Feedback
                     <ClipboardList size={24} />
@@ -59,7 +59,7 @@ export default function AmanahLinktree() {
                 {/* Developers Section */}
                 <a
                     href="https://amanah.dz/team"
-                    className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-2xl rounded-lg hover:bg-[#41E2B8] shadow transition"
+                    className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-xl rounded-lg hover:bg-[#41E2B8] shadow transition"
                 >
                     Our Development Team
                     <Users size={24} />
@@ -68,7 +68,7 @@ export default function AmanahLinktree() {
                 {/* Contact Section */}
                 <a
                     href="mailto:contact.amanah.dz@gmail.com"
-                    className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-2xl rounded-lg hover:bg-[#41E2B8] shadow transition"
+                    className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-xl rounded-lg hover:bg-[#41E2B8] shadow transition"
                 >
                     Email Us
                     <Mail size={24} />
