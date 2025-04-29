@@ -28,7 +28,7 @@ export default function AmanahLinktree() {
 
                 {/* website Section */}
                 <a
-                    href="https://github.com/amanah-project"
+                    href="https://amanah.dz"
                     target="_blank"
                     className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-2xl rounded-lg hover:bg-[#41E2B8] shadow transition"
                 >
@@ -38,7 +38,7 @@ export default function AmanahLinktree() {
 
                 {/* GitHub Section */}
                 <a
-                    href="https://github.com/amanah-project"
+                    href="https://github.com/Z034/PRJP.git"
                     target="_blank"
                     className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-2xl rounded-lg hover:bg-[#41E2B8] shadow transition"
                 >
@@ -48,7 +48,7 @@ export default function AmanahLinktree() {
 
                 {/* form Section */}
                 <a
-                    href="https://your-form-link.com"
+                    href="https://forms.gle/6DiVqrNksPdtVxPv6"
                     target="_blank"
                     className="flex items-center justify-center gap-3 w-full py-3 px-6 bg-[#4C87FF] text-white text-2xl rounded-lg hover:bg-[#41E2B8] shadow transition"
                 >
@@ -58,7 +58,7 @@ export default function AmanahLinktree() {
 
                 {/* Developers Section */}
                 <a
-                    href="/team"
+                    href="https://amanah.dz/team"
                     className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-2xl rounded-lg hover:bg-[#41E2B8] shadow transition"
                 >
                     Our Development Team
