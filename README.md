@@ -11,7 +11,7 @@ Welcome to **Amanah Links** — a clean and simple Linktree-style page designed 
 **Amanah** is a public online platform aimed at helping people across Algeria to report lost items or announce found ones. It builds a trusted environment that fosters community collaboration.
 
 The **Amanah Links** page provides quick access to:
-- Website Link 
+- Website Link 🔗
 - GitHub repository 📂
 - Feedback form 📝
 - Developer team page 👨‍💻
@@ -27,7 +27,7 @@ The **Amanah Links** page provides quick access to:
 
 ## 🌐 Live Demo
 
-[👉 Visit Amanah Links (Demo)](https://your-live-link-here.vercel.app)  
+[👉 Visit Amanah Links (Demo)]([https://your-live-link-here.vercel.app](https://amanah-links.vercel.app/))  
 
 ---
 
