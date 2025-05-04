@@ -29,8 +29,6 @@ export default function AmanahLinktree() {
 
                 {/* website Section */}
                 <a
-                    href=""
-                    target="_blank"
                     className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-xl rounded-lg hover:bg-[#41E2B8] shadow transition"
                 >
                     Visit Our Website (Soon)
