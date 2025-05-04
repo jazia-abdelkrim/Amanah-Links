@@ -1,5 +1,6 @@
 import React from "react";
 import { Github, Users, Mail, ClipboardList, Link } from "lucide-react";
+import { Link } from "react-router-dom";
 
 
 export default function AmanahLinktree() {
@@ -57,13 +58,13 @@ export default function AmanahLinktree() {
                 </a>
 
                 {/* Developers Section */}
-                <a
-                    href="/Team.jsx"
+                <Link
+                    to="/team"
                     className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-xl rounded-lg hover:bg-[#41E2B8] shadow transition"
                 >
                     Our Development Team
                     <Users size={24} />
-                </a>
+                </Link>
 
                 {/* Contact Section */}
                 <a
