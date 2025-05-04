@@ -58,7 +58,7 @@ export default function AmanahLinktree() {
 
                 {/* Developers Section */}
                 <a
-                    href="/Team.sx"
+                    href="/Team.jsx"
                     className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-xl rounded-lg hover:bg-[#41E2B8] shadow transition"
                 >
                     Our Development Team
