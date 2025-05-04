@@ -91,13 +91,13 @@ const Card = ({ member }) => (
 
 const TeamGrid = () => {
     return (
-        <div className="min-h-screen bg-gray-50 py-10 px-4">
+        <div className="min-h-screen bg-gray-50 py-6 px-4">
             <header className="flex items-center pb-6 mb-8 gap-4">
                 <div className="flex items-center gap-4">
                     <h1 className="text-4xl font-extrabold text-[#4C87FF]">المطورون</h1>
                 </div>
             </header>
-            <div className="flex flex-col gap-y-8">
+            <div className="flex flex-col gap-y-6">
                 <div className="flex flex-wrap justify-center gap-2">
                     <Card member={teamMembers[0]} />
                 </div>
