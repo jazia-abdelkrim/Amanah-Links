@@ -1,5 +1,5 @@
 import React from "react";
-import { Github, Users, Mail, ClipboardList, Link } from "lucide-react";
+import { Github, Users, Mail, ClipboardList, Globe } from "lucide-react";
 import { Link } from "react-router-dom";
 
 
@@ -34,10 +34,10 @@ export default function AmanahLinktree() {
                     className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-xl rounded-lg hover:bg-[#41E2B8] shadow transition"
                 >
                     Visit Our Website
-                    <Link size={24} />
+                    <Globe size={24} />
                 </a>
 
-                {/* GitHub Section */}
+                {/* GitHub Section 
                 <a
                     href="https://github.com/Z034/PRJP.git"
                     target="_blank"
@@ -45,7 +45,7 @@ export default function AmanahLinktree() {
                 >
                     GitHub Repository
                     <Github size={24} />
-                </a>
+                </a>*/}
 
                 {/* form Section */}
                 <a
@@ -59,7 +59,7 @@ export default function AmanahLinktree() {
 
                 {/* Developers Section */}
                 <Link
-                    to="/team"
+                    to="/Team.jsx"
                     className="flex items-center justify-center gap-3 w-full text-center py-3 bg-[#4C87FF] text-white text-xl rounded-lg hover:bg-[#41E2B8] shadow transition"
                 >
                     Our Development Team
