@@ -94,11 +94,6 @@ const TeamGrid = () => {
         <div className="min-h-screen bg-gray-50 py-10 px-4">
             <header className="flex items-center pb-6 mb-8 gap-4">
                 <div className="flex items-center gap-4">
-                    <img
-                        src="/assets/img_3.png"
-                        alt="Back to Home"
-                        className="w-[2.5rem] h-[2.5rem]"
-                    />
                     <h1 className="text-4xl font-extrabold text-[#4C87FF]">المطورون</h1>
                 </div>
             </header>
