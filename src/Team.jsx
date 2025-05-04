@@ -5,7 +5,7 @@ const teamMembers = [
         name: "SACI Zhour",
         title: "Project Manager",
         subtitle: "Junior Graphic & UI/UX Designer",
-        image: "/public/assets/zhour.png",
+        image: "/assets/zhour.png",
         links: {
             linkedin: "https://www.linkedin.com/in/zhour-saci-7711aa326/",
             github: "https://github.com/Z034",
@@ -17,7 +17,7 @@ const teamMembers = [
         name: "ABDELKRIM Jazia",
         title: "Graphic & UI/UX Designer",
         subtitle: "Junior Frontend Developer",
-        image: "/public/assets/jazia.png",
+        image: "/assets/jazia.png",
         links: {
             linkedin: "https://www.linkedin.com/in/jazia-abdelkrim/",
             github: "https://github.com/jazia-abdelkrim",
@@ -29,7 +29,7 @@ const teamMembers = [
         name: "DJEBIR Raounak",
         title: "Frontend Developer",
         subtitle: "Junior Graphic & UI/UX Designer",
-        image: "/public/assets/raounak.jpg",
+        image: "/assets/raounak.jpg",
         links: {
             linkedin: "https://www.linkedin.com/in/raounak-djebir-535a83301/",
             github: "https://github.com/raw-djb",
@@ -40,7 +40,7 @@ const teamMembers = [
         name: "ARZIM Sara",
         title: "Full Stack Web Developer",
         subtitle: "Junior Graphic & UI/UX Designer",
-        image: "/public/assets/sara.png",
+        image: "/assets/sara.png",
         links: {
             linkedin: "https://www.linkedin.com/in/sara-arzim-0417b92b5/",
             github: "https://github.com/srx-05",
@@ -51,7 +51,7 @@ const teamMembers = [
         name: "ZEDDOUN Aya",
         title: "Backend Developer",
         subtitle: "Malware Analyst & DFIR Enthusiast",
-        image: "/public/assets/aya.jpg",
+        image: "/assets/aya.jpg",
         links: {
             linkedin: "https://www.linkedin.com/in/aya-zeddoun-262b7b243/",
             github: "https://github.com/ayazedd7",

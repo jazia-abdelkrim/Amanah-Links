@@ -10,7 +10,7 @@ function App() {
       <main className="flex-grow pb-20 px-4 md:px-8">
       <Routes>
         <Route path="/" element={<Links />} />
-        <Route path="/team" element={<TeamGrid />} />
+        <Route path="/Team" element={<TeamGrid />} />
       </Routes>
       </main>
     </div>
